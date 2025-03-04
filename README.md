@@ -126,22 +126,4 @@ The analysis is divided into two main phases:
 ## 5. Conclusion
 This analysis provides a comprehensive understanding of hotel booking trends, revenue distribution, and customer behavior. By addressing data quality issues and leveraging insights, the hotel chain can optimize operations, improve customer satisfaction, and maximize revenue.
 
----
 
-## 6. Next Steps
-- Perform deeper analysis on customer demographics and booking patterns.
-- Explore seasonal trends in bookings and revenue.
-- Build predictive models to forecast demand and optimize pricing strategies.
-
----
-
-## 7. Technology Used
-- **Programming Language**: Python
-- **Libraries**:
-  - **Pandas**: For data manipulation and analysis.
-  - **Matplotlib**: For data visualization (e.g., bar plots).
-  - **Jupyter Notebook**: For interactive data exploration and documentation.
-- **Data Sources**: CSV files containing hotel booking and property data.
-- **Key Features**:
-  - Data cleaning using statistical methods (e.g., mean and standard deviation for outlier detection).
-  - Descriptive statistics and visualization to uncover trends and patterns.
