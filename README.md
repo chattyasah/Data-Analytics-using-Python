@@ -1,4 +1,4 @@
-# README Report: Hotel Booking Data Analysis
+# Hotel Booking Data Analysis
 
 ## 1. Overview
 This project focuses on analyzing hotel booking data to uncover trends, identify data quality issues, and generate actionable insights. The dataset consists of five CSV files:
