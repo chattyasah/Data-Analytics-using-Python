@@ -16,8 +16,9 @@ The analysis is divided into two main phases:
 - **Programming Language**: Python
 - **Libraries**:
   - **Pandas**: For data manipulation and analysis.
-  - **Matplotlib**: For data visualization (e.g., bar plots).
+  - **Matplotlib**: For data visualization.
   - **Jupyter Notebook**: For interactive data exploration and documentation.
+  - **Gitbash** : For package installation and work directory settings.
 - **Data Sources**: CSV files containing hotel booking and property data.
 - **Key Features**:
   - Data cleaning using statistical methods (e.g., mean and standard deviation for outlier detection).
