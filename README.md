@@ -1,7 +1,7 @@
 # Hotel Booking Data Analysis
 
 ## 1. Overview
-This project focuses on analyzing hotel booking data to uncover trends, identify data quality issues, and generate actionable insights. The dataset consists of five CSV files:
+This project focuses on analyzing hotel booking data to uncover trends, identify data quality issues, and generate actionable insights. The dataset consists of five CSV files provided by **[Codebasics](https://codebasics.io/)**:
 - `dim_date.csv`
 - `dim_hotels.csv`
 - `dim_rooms.csv`
